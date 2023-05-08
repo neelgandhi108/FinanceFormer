@@ -1,4 +1,4 @@
-# FinanceFormer-Transformer-based-Model-for-Investment-Portfolio-Optimization
+# FinanceFormer Transformer based Model for Investment Portfolio-Optimization
 
 
 ## Description
